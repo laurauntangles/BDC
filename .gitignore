@@ -1,0 +1,9 @@
+~*
+*~
+*.tmp
+
+fig_png
+figures
+.DS_Store
+.ipynb_checkpoints
+*.swp
